@@ -6,4 +6,4 @@ gorm curd demo
 
 然后go mod tidy 一下，应该能正常运行
 
-详细demo解释请查看
+详细demo解释请查看 https://juejin.cn/post/7260713996164284474
